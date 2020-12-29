@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Site Title"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your name"
+name                     : "Anna Lee"
 description              : "An amazing website."
 url                      : "https://leeanna96.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : ""# the subpath of your site, e.g. "/blog"
@@ -96,7 +96,7 @@ author:
   name             : "Anna Lee"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "SKHU"
-  location         : "Somewhere"
+  location         : "Seoul"
   email            :
   links:
     - label: "Email"
